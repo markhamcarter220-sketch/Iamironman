@@ -6,3 +6,4 @@ gunicorn
 requests
 pydantic
 aiohttp
+pydantic-settings>=2.0.0
